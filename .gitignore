@@ -1,0 +1,28 @@
+# Node.js dependencies (backend + frontend)
+node_modules/
+
+# Backend build output
+/backend/dist/
+
+# Frontend build output
+/frontend/build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs and debug files
+*.log
+*.bak
+*.swp
+
+# IDE and OS-specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test coverage and testing files
+coverage/
+*.test.js
